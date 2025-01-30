@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_start_logo">10dp</dimen>
+    <dimen name="text_logo">30sp</dimen>
+    <dimen name="margin_bottom_recycler">5dp</dimen>
+    <dimen name="padding_horizontal_rv">5dp</dimen>
+    <dimen name="error_text">18sp</dimen>
+    <dimen name="margin_top_nothing_not_found">10dp</dimen>
+</resources>
